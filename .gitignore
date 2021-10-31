@@ -54,3 +54,4 @@ project/metals.sbt
 
 /src/main/resources/META-INF/native-image/com/example/first/
 /src/main/resources/application.conf
+src/main/scala/com/example/first/database/Migrations.scala
